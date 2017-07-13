@@ -1,0 +1,55 @@
+
+.header_name{
+    margin-bottom: 0px;
+}
+
+.header__inner {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header_job_title{
+    margin-top: 0px;
+}
+.header_logo{
+    height: 75px;
+    width: 75px;
+    background-image: url("../../img/udacity_logo.svg");
+    background-size: cover;
+    border:hidden;
+    float:left;
+}
+
+.text_align_and_upper{
+    text-align: right;
+    text-transform: uppercase;
+    color:#2d3c49;
+}
+.image{
+    width: 100%;
+    position: relative;
+    background-image: url("../../img/network_image.jpg");
+    background-size: cover;
+    height: 400px;
+}
+.name_and_title_div{
+    float:right;
+}
+
+hr {
+    display: block;
+    width:100%
+    border: 0;
+    border-top: 3px solid #7d97ad;
+    margin: 1em 0;
+    padding: 0;
+    clear:both;
+}
+
+@media screen and (min-width: 875px){
+    body{
+     margin-right: 150px;
+     margin-left: 80px;
+    }
+}
