@@ -3,12 +3,6 @@
     margin-bottom: 0px;
 }
 
-.header__inner {
-  width: 800px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .header_job_title{
     margin-top: 0px;
 }
@@ -26,11 +20,12 @@
     text-transform: uppercase;
     color:#2d3c49;
 }
+
 .image{
-    width: 800px;
     position: relative;
     background-image: url("../../img/network_image.jpg");
     background-size: cover;
+    width: 800px;
     height: 400px;
 }
 
@@ -38,12 +33,16 @@
     float:right;
 }
 
+.full_screen_width{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 hr {
     display: block;
-    width:100%
     border: 0;
     border-top: 3px solid #7d97ad;
-    margin: 1em 0;
     padding: 0;
     clear:both;
 }

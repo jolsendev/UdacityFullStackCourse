@@ -1,12 +1,10 @@
+.full_screen_width{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 body{
     background-color:green;
- }
-
- .image{
-    width: 100%;
-    position: relative;
-    background-image: url("../../img/network_image.jpg");
-    background-size: cover;
-    height: 400px;
 }
 
