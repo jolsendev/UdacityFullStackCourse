@@ -27,12 +27,13 @@
     color:#2d3c49;
 }
 .image{
-    width: 100%;
+    width: 800px;
     position: relative;
     background-image: url("../../img/network_image.jpg");
     background-size: cover;
     height: 400px;
 }
+
 .name_and_title_div{
     float:right;
 }
@@ -45,11 +46,4 @@ hr {
     margin: 1em 0;
     padding: 0;
     clear:both;
-}
-
-@media screen and (min-width: 875px){
-    body{
-     margin-right: 150px;
-     margin-left: 80px;
-    }
 }
