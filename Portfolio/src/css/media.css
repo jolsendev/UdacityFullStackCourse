@@ -8,3 +8,7 @@ body{
     background-color:green;
 }
 
+.article_container_div{
+    display:flex;
+    flex-wrap:wrap;
+}

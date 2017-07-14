@@ -50,3 +50,16 @@ hr {
 .featured_work_text{
     color:#7d97ad;
 }
+
+.div_inline_block{
+     display: inline-block;
+}
+
+.article_container_div{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+
+}
+
+
