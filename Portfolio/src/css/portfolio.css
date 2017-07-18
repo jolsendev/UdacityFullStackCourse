@@ -22,11 +22,7 @@
 }
 
 .image{
-    position: relative;
-    background-image: url("../../img/network_image.jpg");
     background-size: cover;
-max-width:100%;
-object-fit: contain
 }
 
 .name_and_title_div{
@@ -38,15 +34,6 @@ object-fit: contain
     margin-left: auto;
     margin-right: auto;
 }
-
-hr {
-    display: block;
-    border: 0;
-    border-top: 3px solid #7d97ad;
-    padding: 0;
-    clear:both;
-}
-
 .featured_work_text{
     color:#7d97ad;
 }
@@ -62,4 +49,8 @@ hr {
 
 }
 
-
+.spacer {
+    border: none;
+    height: 5px;
+    background-color: #7d97ad; /* Modern Browsers */
+}
