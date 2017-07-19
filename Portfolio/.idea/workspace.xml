@@ -15,8 +15,8 @@
       <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/views/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+            <state relative-caret-position="221">
+              <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -25,8 +25,8 @@
       <file leaf-file-name="portfolio.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/css/portfolio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="766">
-              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -35,8 +35,8 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4175">
-              <caret line="6799" column="12" lean-forward="false" selection-start-line="6799" selection-start-column="7" selection-end-line="6799" selection-end-column="12" />
+            <state relative-caret-position="367">
+              <caret line="6569" column="24" lean-forward="true" selection-start-line="6569" selection-start-column="24" selection-end-line="6569" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -192,14 +192,15 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\UdacityFullStackCourse\Portfolio\src\js" />
-      <recent name="C:\UdacityFullStackCourse\Portfolio\src\fonts" />
-      <recent name="C:\UdacityFullStackCourse\Portfolio\src\css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\UdacityFullStackCourse\Portfolio\src" />
       <recent name="C:\Users\Jamie\UdacityFullStackCourse\Portfolio\src\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\UdacityFullStackCourse\Portfolio\src\img" />
+      <recent name="C:\UdacityFullStackCourse\Portfolio\src\js" />
+      <recent name="C:\UdacityFullStackCourse\Portfolio\src\fonts" />
+      <recent name="C:\UdacityFullStackCourse\Portfolio\src\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -615,26 +616,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/src/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        <state relative-caret-position="367">
+          <caret line="6569" column="24" lean-forward="true" selection-start-line="6569" selection-start-column="24" selection-end-line="6569" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/src/views/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4175">
-          <caret line="6799" column="12" lean-forward="false" selection-start-line="6799" selection-start-column="7" selection-end-line="6799" selection-end-column="12" />
+        <state relative-caret-position="221">
+          <caret line="13" column="41" lean-forward="false" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/portfolio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="766">
-          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
           <folding />
         </state>
       </provider>

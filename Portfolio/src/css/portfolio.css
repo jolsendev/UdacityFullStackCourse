@@ -6,11 +6,13 @@
 .header_job_title{
     margin-top: 0px;
 }
+
 .header_logo{
-    height: 75px;
-    width: 75px;
+    height: 200px;
+    width: 200px;
     border:hidden;
     float:left;
+    padding:none;
 }
 
 .text_align_and_upper{
@@ -32,6 +34,7 @@
     margin-left: auto;
     margin-right: auto;
 }
+
 .featured_work_text{
     color:#7d97ad;
 }
@@ -44,19 +47,16 @@
     display:flex;
     flex-wrap:wrap;
     justify-content: center;
-
 }
 
 .spacer {
     border: none;
     height: 5px;
-    background-color: #7d97ad; /* Modern Browsers */
+    background-color: #7d97ad;
 }
 
 .thumbnail-image{
-
     max-width: 100%;
     height: auto;
-
 }
 
