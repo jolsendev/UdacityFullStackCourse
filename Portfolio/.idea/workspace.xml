@@ -12,21 +12,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/views/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="307">
+              <caret line="79" column="10" lean-forward="false" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="portfolio.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/css/portfolio.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="70" column="22" lean-forward="false" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+            <state relative-caret-position="271">
+              <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -100,6 +100,7 @@
       <find>max-device-width: 480px</find>
       <find>@media</find>
       <find>text_align_and_upper</find>
+      <find>name_and_title_div</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -112,8 +113,8 @@
         <option value="$PROJECT_DIR$/src/css/bootstrap-theme.min.css" />
         <option value="$PROJECT_DIR$/src/css/bootstrap-theme.min.css.map" />
         <option value="$PROJECT_DIR$/src/css/bootstrap.min.css" />
-        <option value="$PROJECT_DIR$/src/views/portfolio.html" />
         <option value="$PROJECT_DIR$/src/css/portfolio.css" />
+        <option value="$PROJECT_DIR$/src/views/portfolio.html" />
       </list>
     </option>
   </component>
@@ -278,7 +279,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11595273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -607,18 +608,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/portfolio.html">
+    <entry file="file://$PROJECT_DIR$/src/css/portfolio.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="42" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="42" />
+        <state relative-caret-position="271">
+          <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/portfolio.css">
+    <entry file="file://$PROJECT_DIR$/src/views/portfolio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="70" column="22" lean-forward="false" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+        <state relative-caret-position="307">
+          <caret line="79" column="10" lean-forward="false" selection-start-line="79" selection-start-column="10" selection-end-line="79" selection-end-column="10" />
           <folding />
         </state>
       </provider>
