@@ -18,7 +18,7 @@
 .text_align_and_upper{
     text-align: right;
     text-transform: uppercase;
-    color:#2d3c49;
+    color: #2d3c49;
 }
 
 .image{
@@ -26,7 +26,7 @@
 }
 
 .name_and_title_div{
-    float:right;
+    float: right;
 }
 
 .full_screen_width{
@@ -36,7 +36,7 @@
 }
 
 .featured_work_text{
-    color:#7d97ad;
+    color: #7d97ad;
 }
 
 .div_inline_block{
@@ -44,8 +44,8 @@
 }
 
 .article_container_div{
-    display:flex;
-    flex-wrap:wrap;
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
 }
 
