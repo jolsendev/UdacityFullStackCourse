@@ -60,3 +60,15 @@
     height: auto;
 }
 
+@media (max-width: 368px) {
+.text_align_and_upper{
+    text-align: center;
+    text-transform: uppercase;
+    color: #2d3c49;
+}
+
+.name_and_title_div{
+    text-align:center;
+}
+
+}
